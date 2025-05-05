@@ -1,6 +1,7 @@
+
 # CodSoft Internship - Python Programming
 
-Welcome to my CodSoft internship repository. This repository contains Python projects completed during my 4-week internship at CodSoft.
+Welcome to my **#CodSoft** internship repository. This repository contains Python projects completed during my 4-week internship at **#CodSoft**.
 
 ## Table of Contents
 
@@ -21,6 +22,8 @@ A **To-Do List** application is a useful project that helps users manage and org
   - Update tasks
   - Track tasks
 
+You can view the code for this task here: [task1_todo_list.py](task1_todo_list.py)
+
 ---
 
 ## Task 2: Simple Calculator
@@ -31,6 +34,8 @@ A simple **calculator** that performs basic arithmetic operations.
   - Ask for an operation choice (add, subtract, multiply, divide).
   - Perform the calculation and display the result.
 
+You can view the code for this task here: [task2_calculator.py](task2_calculator.py)
+
 ---
 
 ## Task 3: Password Generator
@@ -40,6 +45,8 @@ A **password generator** that generates strong and random passwords.
   - Prompt the user to specify the desired length of the password.
   - Generate a random password based on the specified length using a combination of random characters.
   - Display the generated password.
+
+You can view the code for this task here: [task3_password_generator.py](task3_password_generator.py)
 
 ---
 
@@ -53,6 +60,8 @@ A **Rock, Paper, Scissors** game that the user can play against the computer.
     - Rock beats scissors, scissors beat paper, and paper beats rock.
   - Display the result and allow the user to play multiple rounds.
 
+You can view the code for this task here: [task4_rock_paper_scissors.py](task4_rock_paper_scissors.py)
+
 ---
 
 ## Task 5: Contact Management System
@@ -64,10 +73,12 @@ A **Contact Management System** to store, manage, and search for contacts.
   - View contact list.
   - Search, update, and delete contacts.
 
+You can view the code for this task here: [task5_contact_book.py](task5_contact_book.py)
+
 ---
 
 ## About the Internship
-- **Company Name**: CodSoft
+- **Company Name**: **#CodSoft**
 - **Internship Duration**: May 5, 2025 - June 5, 2025
 - **Role**: Python Intern
 - **Focus**: Learning, skill development, and hands-on knowledge in Python programming.
