@@ -1,1 +1,127 @@
+--- Contact Book ---
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Choose an option: 1
+Name: Pooja
+Phone: 9876543210
+Email: pooja@example.com
+Address: 101 Pooja St
+Contact added!
 
+--- Contact Book ---
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Choose an option: 1
+Name: Shalini
+Phone: 1234567890
+Email: shalini@example.com
+Address: 123 Main St
+Contact added!
+
+--- Contact Book ---
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Choose an option: 2
+Name: Pooja
+Phone: 9876543210
+Email: pooja@example.com
+Address: 101 Pooja St
+
+Name: Shalini
+Phone: 1234567890
+Email: shalini@example.com
+Address: 123 Main St
+
+--- Contact Book ---
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Choose an option: 3
+Enter name to search: shalini
+Name: Shalini
+Phone: 1234567890
+Email: shalini@example.com
+Address: 123 Main St
+
+--- Contact Book ---
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Choose an option: 4
+Enter name to update: pooja
+Leave blank to keep current value.
+New Phone (9876543210): 1122334455
+New Email (pooja@example.com): pooja_updated@example.com
+New Address (101 Pooja St): 202 Pooja Rd
+Contact updated!
+
+--- Contact Book ---
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Choose an option: 2
+Name: Pooja
+Phone: 1122334455
+Email: pooja_updated@example.com
+Address: 202 Pooja Rd
+
+Name: Shalini
+Phone: 1234567890
+Email: shalini@example.com
+Address: 123 Main St
+
+--- Contact Book ---
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Choose an option: 5
+Enter name to delete: pooja
+Contact deleted!
+
+--- Contact Book ---
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Choose an option: 2
+Name: Shalini
+Phone: 1234567890
+Email: shalini@example.com
+Address: 123 Main St
+
+--- Contact Book ---
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+Choose an option: 6
+
+=== Code Execution Successful ===
