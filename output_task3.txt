@@ -1,1 +1,7 @@
+Enter password length: 12
+Generated password: yH6#vX9!aLpQ
 
+Enter password length: 8
+Generated password: 5hR!q3Lz
+
+=== Code Execution Successful ===
