@@ -1,1 +1,22 @@
+--- ROCK PAPER SCISSORS ---
+Choose rock, paper, or scissors (or 'exit' to stop): rock
+Computer chose: scissors
+You win!
+Score: You 1 - Computer 0
 
+--- ROCK PAPER SCISSORS ---
+Choose rock, paper, or scissors (or 'exit' to stop): paper
+Computer chose: rock
+You win!
+Score: You 2 - Computer 0
+
+--- ROCK PAPER SCISSORS ---
+Choose rock, paper, or scissors (or 'exit' to stop): scissors
+Computer chose: scissors
+It's a tie!
+Score: You 2 - Computer 0
+
+--- ROCK PAPER SCISSORS ---
+Choose rock, paper, or scissors (or 'exit' to stop): exit
+
+=== Code Execution Successful ===
