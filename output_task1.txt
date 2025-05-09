@@ -1,1 +1,56 @@
+--- TO-DO LIST ---
+1. Show Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Choose an option: 2
+Enter a new task: buy groceries
+Task added!
 
+--- TO-DO LIST ---
+1. Show Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Choose an option: 2
+Enter a new task: clean the house
+Task added!
+
+--- TO-DO LIST ---
+1. Show Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Choose an option: 1
+Your Tasks:
+1. buy groceries
+2. clean the house
+
+--- TO-DO LIST ---
+1. Show Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Choose an option: 3
+1. buy groceries
+2. clean the house
+Enter task number to remove: 2
+Removed: clean the house
+
+--- TO-DO LIST ---
+1. Show Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Choose an option: 1
+Your Tasks:
+1. buy groceries
+
+--- TO-DO LIST ---
+1. Show Tasks
+2. Add Task
+3. Remove Task
+4. Exit
+Choose an option: 4
+
+=== Code Execution Successful ===
