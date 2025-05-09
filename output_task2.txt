@@ -1,1 +1,25 @@
+Enter first number: 25
+Enter second number: 5
+Choose operation: +, -, *, /
+Operation: +
+Result: 30.0
 
+Enter first number: 10
+Enter second number: 2
+Choose operation: +, -, *, /
+Operation: -
+Result: 8.0
+
+Enter first number: 4
+Enter second number: 3
+Choose operation: +, -, *, /
+Operation: *
+Result: 12.0
+
+Enter first number: 16
+Enter second number: 4
+Choose operation: +, -, *, /
+Operation: /
+Result: 4.0
+
+=== Code Execution Successful ===
