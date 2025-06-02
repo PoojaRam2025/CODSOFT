@@ -1,109 +1,142 @@
-# CodSoft Internship - Python Programming
+Python Programming
 
-Welcome to my #CodSoft internship repository. This repository contains Python projects completed during my internship at #CodSoft.
+Welcome to my #PythonProgramming repository. This collection showcases simple and beginner-friendly Python projects to strengthen logic building and hands-on coding skills.
 
-## Table of Contents
-- [Task 1: To-Do List Application](#task-1-to-do-list-application)
-- [Task 2: Simple Calculator](#task-2-simple-calculator)
-- [Task 3: Password Generator](#task-3-password-generator)
-- [Task 4: Rock, Paper, Scissors Game](#task-4-rock-paper-scissors-game)
-- [Task 5: Contact Management System](#task-5-contact-management-system)
+Table of Contents
 
-## Task 1: To-Do List Application
-A To-Do List application is a useful project that helps users manage and organize their tasks efficiently.
+Task 1: To-Do List Application
 
-### Objective:
-Create a command-line application using Python, allowing users to:
-- Create tasks
-- Update tasks
-- Track tasks
+Task 2: Simple Calculator
 
-You can view the code for this task here: [task1_todo_list.py](task1_todo_list.py)
+Task 3: Password Generator
 
-### Output:
-You can view the output for this task here: [output_task1.txt](output_task1.txt)
+Task 4: Rock, Paper, Scissors Game
+
+Task 5: Contact Management System
+
+
 
 ---
 
-## Task 2: Simple Calculator
-A simple calculator that performs basic arithmetic operations.
+Task 1: To-Do List Application
 
-### Objective:
-- Prompt the user to input two numbers.
-- Ask for an operation choice (add, subtract, multiply, divide).
-- Perform the calculation and display the result.
+A #ToDoList application that helps users manage and organize daily tasks through the command line.
 
-You can view the code for this task here: [task2_calculator.py](task2_calculator.py)
+🔹 Objective:
 
-### Output:
-You can view the output for this task here: [output_task2.txt](output_task2.txt)
+Create tasks
 
----
+Update tasks
 
-## Task 3: Password Generator
-A password generator that generates strong and random passwords.
+Track tasks
 
-### Objective:
-- Prompt the user to specify the desired length of the password.
-- Generate a random password based on the specified length using a combination of random characters.
-- Display the generated password.
 
-You can view the code for this task here: [task3_password_generator.py](task3_password_generator.py)
+🔗 Code: task1_todo_list.py
+📄 Output: output_task1.txt
 
-### Output:
-You can view the output for this task here: [output_task3.txt](output_task3.txt)
 
 ---
 
-## Task 4: Rock, Paper, Scissors Game
-A Rock, Paper, Scissors game that the user can play against the computer.
+Task 2: Simple Calculator
 
-### Objective:
-- User selects rock, paper, or scissors.
-- Computer randomly selects rock, paper, or scissors.
-- Determine the winner based on the game rules: Rock beats scissors, scissors beat paper, and paper beats rock.
-- Display the result and allow the user to play multiple rounds.
+A #SimpleCalculator that performs basic arithmetic operations interactively.
 
-You can view the code for this task here: [task4_rock_paper_scissors.py](task4_rock_paper_scissors.py)
+🔹 Objective:
 
-### Output:
-You can view the output for this task here: [output_task4.txt](output_task4.txt)
+Input two numbers
 
----
+Choose an operation (add, subtract, multiply, divide)
 
-## Task 5: Contact Management System
-A Contact Management System to store, manage, and search for contacts.
+Show the result
 
-### Objective:
-- Store name, phone number, email, and address for each contact.
-- Add new contacts.
-- View contact list.
-- Search, update, and delete contacts.
 
-You can view the code for this task here: [task5_contact_book.py](task5_contact_book.py)
+🔗 Code: task2_calculator.py
+📄 Output: output_task2.txt
 
-### Output:
-You can view the output for this task here: [output_task5.txt](output_task5.txt)
 
 ---
 
-## About the Internship
-**Company Name**: CodSoft  
-**Role**: Python Intern  
-**Focus**: Learning, skill development, and hands-on knowledge in Python programming.
+Task 3: Password Generator
 
-The internship involves completing tasks to develop new skills, gain practical experience, and demonstrate excellence in Python.
+A #PasswordGenerator to create secure, random passwords with customizable length.
+
+🔹 Objective:
+
+Ask user for password length
+
+Generate a secure password using letters, numbers, and symbols
+
+Display the result
+
+
+🔗 Code: task3_password_generator.py
+📄 Output: output_task3.txt
+
 
 ---
 
-## Getting Started
-To run the code or replicate the tasks:
+Task 4: Rock, Paper, Scissors Game
 
-1. Clone the repository to your local machine.
-2. Make sure Python is installed.
-3. Run the Python scripts for each task.
+A classic #RockPaperScissors game built with Python.
+
+🔹 Objective:
+
+User chooses rock, paper, or scissors
+
+Computer randomly picks
+
+Determine and display the winner
+
+Allow multiple rounds
+
+
+🔗 Code: task4_rock_paper_scissors.py
+📄 Output: output_task4.txt
+
 
 ---
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Task 5: Contact Management System
+
+A #ContactManagementSystem to store, search, and manage personal or business contacts.
+
+🔹 Objective:
+
+Store contact name, phone, email, and address
+
+Add, view, search, update, or delete contacts
+
+
+🔗 Code: task5_contact_book.py
+📄 Output: output_task5.txt
+
+
+---
+
+Getting Started
+
+To run the code on your local machine:
+
+1. Clone this repository
+
+
+2. Make sure #Python is installed
+
+
+3. Run the desired .py file
+
+
+
+
+---
+
+License
+
+This project is licensed under the MIT License – see the LICENSE file for more details.
+
+
+---
+
+Tags
+
+#PythonProjects #BeginnerProjects #PythonBasics #100DaysOfCode #LearnToCode #CodeNewbie #Python3 #OpenSource #DevPortfolio
