@@ -23,12 +23,12 @@ A **To-Do List** application that helps users manage and organize their tasks ef
 
 **Objective:**
 
-- **Create tasks**  
-- **Update tasks**  
-- **Track tasks**
+- Create tasks  
+- Update tasks  
+- Track tasks
 
-📂 **Code**: `task1_todo_list.py`  
-📄 **Output**: `output_task1.txt`
+📂 [Code: task1_todo_list.py](task1_todo_list.py)  
+📄 [Output: output_task1.txt](output_task1.txt)
 
 ---
 
@@ -38,12 +38,12 @@ A **Simple Calculator** that performs basic arithmetic operations.
 
 **Objective:**
 
-- **Prompt** the user to input two numbers  
-- **Ask** for an operation choice (**add, subtract, multiply, divide**)  
-- **Perform** the calculation and **display** the result
+- Prompt the user to input two numbers  
+- Ask for an operation choice (add, subtract, multiply, divide)  
+- Perform the calculation and display the result
 
-📂 **Code**: `task2_calculator.py`  
-📄 **Output**: `output_task2.txt`
+📂 [Code: task2_calculator.py](task2_calculator.py)  
+📄 [Output: output_task2.txt](output_task2.txt)
 
 ---
 
@@ -53,12 +53,12 @@ A **Password Generator** that creates strong and random passwords.
 
 **Objective:**
 
-- **Prompt** the user to specify the desired password length  
-- **Generate** a random password using a mix of characters  
-- **Display** the generated password
+- Prompt the user to specify the desired password length  
+- Generate a random password using a mix of characters  
+- Display the generated password
 
-📂 **Code**: `task3_password_generator.py`  
-📄 **Output**: `output_task3.txt`
+📂 [Code: task3_password_generator.py](task3_password_generator.py)  
+📄 [Output: output_task3.txt](output_task3.txt)
 
 ---
 
@@ -68,13 +68,13 @@ A **Rock Paper Scissors** game for the user to play against the computer.
 
 **Objective:**
 
-- User **selects** rock, paper, or scissors  
-- Computer **randomly selects** rock, paper, or scissors  
-- **Determine** the winner using game rules  
-- **Display** the result and allow for multiple rounds
+- User selects rock, paper, or scissors  
+- Computer randomly selects rock, paper, or scissors  
+- Determine the winner using game rules  
+- Display the result and allow for multiple rounds
 
-📂 **Code**: `task4_rock_paper_scissors.py`  
-📄 **Output**: `output_task4.txt`
+📂 [Code: task4_rock_paper_scissors.py](task4_rock_paper_scissors.py)  
+📄 [Output: output_task4.txt](output_task4.txt)
 
 ---
 
@@ -84,13 +84,13 @@ A **Contact Management System** to store, manage, and search for contacts.
 
 **Objective:**
 
-- **Store** name, phone number, email, and address  
-- **Add** new contacts  
-- **View** contact list  
-- **Search, update, and delete** contacts
+- Store name, phone number, email, and address  
+- Add new contacts  
+- View contact list  
+- Search, update, and delete contacts
 
-📂 **Code**: `task5_contact_book.py`  
-📄 **Output**: `output_task5.txt`
+📂 [Code: task5_contact_book.py](task5_contact_book.py)  
+📄 [Output: output_task5.txt](output_task5.txt)
 
 ---
 
@@ -117,6 +117,7 @@ To run the code or replicate the tasks:
 ## License
 
 This project is licensed under the **MIT License** – see the `LICENSE` file for details.
+
 
 
 
