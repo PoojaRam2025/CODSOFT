@@ -17,14 +17,14 @@ Welcome to my **Python Programming** repository. This repository contains **Pyth
 
 ---
 
-## ⭐ Task 1: To-Do List Application
+## Task 1: To-Do List Application
 
 A **To-Do List** application that helps users manage and organize their tasks efficiently.
 
 **Objective:**
 
-- **Create tasks**
-- **Update tasks**
+- **Create tasks**  
+- **Update tasks**  
 - **Track tasks**
 
 📂 **Code**: `task1_todo_list.py`  
@@ -32,7 +32,7 @@ A **To-Do List** application that helps users manage and organize their tasks ef
 
 ---
 
-## ⭐ Task 2: Simple Calculator
+## Task 2: Simple Calculator
 
 A **Simple Calculator** that performs basic arithmetic operations.
 
@@ -47,7 +47,7 @@ A **Simple Calculator** that performs basic arithmetic operations.
 
 ---
 
-## ⭐ Task 3: Password Generator
+## Task 3: Password Generator
 
 A **Password Generator** that creates strong and random passwords.
 
@@ -62,9 +62,9 @@ A **Password Generator** that creates strong and random passwords.
 
 ---
 
-## ⭐ Task 4: Rock Paper Scissors Game
+## Task 4: Rock Paper Scissors Game
 
-A **Rock, Paper, Scissors** game for the user to play against the computer.
+A **Rock Paper Scissors** game for the user to play against the computer.
 
 **Objective:**
 
@@ -78,7 +78,7 @@ A **Rock, Paper, Scissors** game for the user to play against the computer.
 
 ---
 
-## ⭐ Task 5: Contact Management System
+## Task 5: Contact Management System
 
 A **Contact Management System** to store, manage, and search for contacts.
 
@@ -94,17 +94,17 @@ A **Contact Management System** to store, manage, and search for contacts.
 
 ---
 
-## ℹ️ About the Projects
+## About the Projects
 
 These projects were created to:
 
-- Gain **hands-on experience** in Python
-- Strengthen **problem-solving skills**
+- Gain **hands-on experience** in Python  
+- Strengthen **problem-solving skills**  
 - Build **real-world applications** from scratch
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run the code or replicate the tasks:
 
@@ -114,9 +114,10 @@ To run the code or replicate the tasks:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** – see the `LICENSE` file for details.
+
 
 
 
